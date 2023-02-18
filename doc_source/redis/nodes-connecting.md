@@ -67,7 +67,7 @@ For Ubuntu systems, before running `make`, run `make distclean`\.
    A Redis command prompt similar to the following appears\.
 
    ```
-   redis mycachecluster.eaogs8.0001.usw2.cache.amazonaws.com 6379>
+   redis mycachecluster.eaogs8.0001.usw2.cache.amazonaws.com 6379
    ```
 
 1. Test the connection by running Redis commands\.
